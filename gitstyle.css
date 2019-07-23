@@ -1,0 +1,32 @@
+.container-fluid{
+	background-color: #262627;
+}
+
+.jumbotron{
+	background-color: #F3A898;
+	color: white;
+	padding-right: 200px;
+	padding-left: 200px;
+	font-family: 'Open Sans', sans-serif;
+		
+}
+
+.row{
+	padding: 15px;
+}
+
+section{
+	background-color: #343a40;
+}
+
+.container{
+	font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+	background-color:#513B36	
+	}
+
+
+
+	
